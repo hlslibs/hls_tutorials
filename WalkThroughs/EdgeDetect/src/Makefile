@@ -1,0 +1,1 @@
+/home/dgb/sb/sif/subprojs/sif_toolkits/any/training/WalkThroughs/ImageProcessing/SlidingWindow/Makefile
